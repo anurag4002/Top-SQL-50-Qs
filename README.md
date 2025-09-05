@@ -1,2 +1,58 @@
-# Top-SQL-50-Qs
-We have solve all the good question of SQL for Crack SQL Interview in 50 Qs.
+# 🎓 Top 50 SQL Interview Questions & Answers  
+
+Welcome to my repository! 🚀  
+Here I am solving **Top 50 SQL Interview Questions**, uploading **day by day** with detailed solutions & explanations.  
+Perfect for 📚 learners, 💼 job seekers, and 👨‍💻 developers preparing for interviews.  
+
+---
+
+## 🌟 Features  
+✅ Most frequently asked SQL interview questions  
+✅ Day-wise practice & solutions  
+✅ Clean & tested SQL queries  
+✅ Easy to understand explanations  
+
+---
+
+## 📂 Repository Structure  
+📌 `Day_1.sql` → Question + Solution  
+📌 `Day_2.sql` → Question + Solution  
+📌 ... continuing till `Day_50.sql`  
+
+---
+
+## 🎯 Why This Repo?  
+✨ To **practice SQL daily**  
+✨ To **boost interview preparation**  
+✨ To **build strong database concepts**  
+✨ To **track learning journey on GitHub**  
+
+---
+
+## 📊 Progress  
+![Progress](https://img.shields.io/badge/Progress-10%2F50-green?style=for-the-badge&logo=postgresql)  
+*(Updating daily until all 50 questions are solved ✔️)*  
+
+---
+
+## 🛠️ Tech Stack  
+- 🐘 SQL (MySQL / PostgreSQL)  
+- 🗄️ Database Concepts  
+- 📑 Query Optimization  
+
+---
+
+## 🤝 Contribution  
+Feel free to ⭐ the repo if you find it useful!  
+Pull Requests are welcome if you’d like to add improvements.  
+
+---
+
+## 📌 Author  
+👤 **Anurag Mishra**  
+📧 mishraanurag66031@gmail.com 
+🔗 https://www.linkedin.com/in/anurag-mishra-9b1387224
+
+---
+
+🚀 *Stay tuned! More SQL solutions coming every day...* 🎉  
