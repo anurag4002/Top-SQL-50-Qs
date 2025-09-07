@@ -56,3 +56,11 @@ Pull Requests are welcome if you’d like to add improvements.
 ---
 
 🚀 *Stay tuned! More SQL solutions coming every day...* 🎉  
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Database
+|  |
+| ------- |
+| [1801-average-time-of-process-per-machine](https://github.com/anurag4002/Top-SQL-50-Qs/tree/master/1801-average-time-of-process-per-machine) |
+<!---LeetCode Topics End-->
