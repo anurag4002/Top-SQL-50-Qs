@@ -71,4 +71,20 @@ Pull Requests are welcome if you’d like to add improvements.
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/anurag4002/Top-SQL-50-Qs/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1801-average-time-of-process-per-machine](https://github.com/anurag4002/Top-SQL-50-Qs/tree/master/1801-average-time-of-process-per-machine) |
 | [2087-confirmation-rate](https://github.com/anurag4002/Top-SQL-50-Qs/tree/master/2087-confirmation-rate) |
+## Stack
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/anurag4002/Top-SQL-50-Qs/tree/master/0094-binary-tree-inorder-traversal) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/anurag4002/Top-SQL-50-Qs/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/anurag4002/Top-SQL-50-Qs/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/anurag4002/Top-SQL-50-Qs/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
