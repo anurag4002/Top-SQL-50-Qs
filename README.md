@@ -4,7 +4,7 @@ Welcome to my repository! 🚀
 Here I am solving **Top 50 SQL Interview Questions**, uploading **day by day** with detailed solutions & explanations.  
 Perfect for 📚 learners, 💼 job seekers, and 👨‍💻 developers preparing for interviews.  
 
----
+------
 
 ## 🌟 Features  
 ✅ Most frequently asked SQL interview questions  
