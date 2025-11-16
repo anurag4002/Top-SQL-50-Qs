@@ -66,6 +66,7 @@ Pull Requests are welcome if you’d like to add improvements.
 | [0577-employee-bonus](https://github.com/anurag4002/Top-SQL-50-Qs/tree/master/0577-employee-bonus) |
 | [0620-not-boring-movies](https://github.com/anurag4002/Top-SQL-50-Qs/tree/master/0620-not-boring-movies) |
 | [1161-project-employees-i](https://github.com/anurag4002/Top-SQL-50-Qs/tree/master/1161-project-employees-i) |
+| [1292-immediate-food-delivery-ii](https://github.com/anurag4002/Top-SQL-50-Qs/tree/master/1292-immediate-food-delivery-ii) |
 | [1390-average-selling-price](https://github.com/anurag4002/Top-SQL-50-Qs/tree/master/1390-average-selling-price) |
 | [1415-students-and-examinations](https://github.com/anurag4002/Top-SQL-50-Qs/tree/master/1415-students-and-examinations) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/anurag4002/Top-SQL-50-Qs/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
