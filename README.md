@@ -69,6 +69,7 @@ Pull Requests are welcome if you’d like to add improvements.
 | [0620-not-boring-movies](https://github.com/anurag4002/Top-SQL-50-Qs/tree/master/0620-not-boring-movies) |
 | [0626-exchange-seats](https://github.com/anurag4002/Top-SQL-50-Qs/tree/master/0626-exchange-seats) |
 | [1161-project-employees-i](https://github.com/anurag4002/Top-SQL-50-Qs/tree/master/1161-project-employees-i) |
+| [1164-product-price-at-a-given-date](https://github.com/anurag4002/Top-SQL-50-Qs/tree/master/1164-product-price-at-a-given-date) |
 | [1245-user-activity-for-the-past-30-days-i](https://github.com/anurag4002/Top-SQL-50-Qs/tree/master/1245-user-activity-for-the-past-30-days-i) |
 | [1292-immediate-food-delivery-ii](https://github.com/anurag4002/Top-SQL-50-Qs/tree/master/1292-immediate-food-delivery-ii) |
 | [1390-average-selling-price](https://github.com/anurag4002/Top-SQL-50-Qs/tree/master/1390-average-selling-price) |
