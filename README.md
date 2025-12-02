@@ -65,6 +65,7 @@ Pull Requests are welcome if you’d like to add improvements.
 | [0197-rising-temperature](https://github.com/anurag4002/Top-SQL-50-Qs/tree/master/0197-rising-temperature) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/anurag4002/Top-SQL-50-Qs/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0577-employee-bonus](https://github.com/anurag4002/Top-SQL-50-Qs/tree/master/0577-employee-bonus) |
+| [0585-investments-in-2016](https://github.com/anurag4002/Top-SQL-50-Qs/tree/master/0585-investments-in-2016) |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/anurag4002/Top-SQL-50-Qs/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 | [0620-not-boring-movies](https://github.com/anurag4002/Top-SQL-50-Qs/tree/master/0620-not-boring-movies) |
 | [0626-exchange-seats](https://github.com/anurag4002/Top-SQL-50-Qs/tree/master/0626-exchange-seats) |
