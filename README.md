@@ -100,4 +100,12 @@ Pull Requests are welcome if you’d like to add improvements.
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/anurag4002/Top-SQL-50-Qs/tree/master/0094-binary-tree-inorder-traversal) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/anurag4002/Top-SQL-50-Qs/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/anurag4002/Top-SQL-50-Qs/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
