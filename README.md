@@ -108,4 +108,12 @@ Pull Requests are welcome if you’d like to add improvements.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/anurag4002/Top-SQL-50-Qs/tree/master/0001-two-sum) |
+## Linked List
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/anurag4002/Top-SQL-50-Qs/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/anurag4002/Top-SQL-50-Qs/tree/master/0019-remove-nth-node-from-end-of-list) |
 <!---LeetCode Topics End-->
