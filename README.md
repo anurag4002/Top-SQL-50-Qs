@@ -116,4 +116,9 @@ Pull Requests are welcome if you’d like to add improvements.
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/anurag4002/Top-SQL-50-Qs/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0344-reverse-string](https://github.com/anurag4002/Top-SQL-50-Qs/tree/master/0344-reverse-string) |
+## String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/anurag4002/Top-SQL-50-Qs/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
