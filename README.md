@@ -113,6 +113,7 @@ Pull Requests are welcome if you’d like to add improvements.
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/anurag4002/Top-SQL-50-Qs/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0024-swap-nodes-in-pairs](https://github.com/anurag4002/Top-SQL-50-Qs/tree/master/0024-swap-nodes-in-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -123,4 +124,8 @@ Pull Requests are welcome if you’d like to add improvements.
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/anurag4002/Top-SQL-50-Qs/tree/master/0344-reverse-string) |
+## Recursion
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/anurag4002/Top-SQL-50-Qs/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
