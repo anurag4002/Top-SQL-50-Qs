@@ -123,6 +123,7 @@ Pull Requests are welcome if you’d like to add improvements.
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/anurag4002/Top-SQL-50-Qs/tree/master/0008-string-to-integer-atoi) |
 | [0344-reverse-string](https://github.com/anurag4002/Top-SQL-50-Qs/tree/master/0344-reverse-string) |
 ## Recursion
 |  |
