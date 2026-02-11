@@ -8,7 +8,7 @@
 <strong>Output:</strong> ["o","l","l","e","h"]
 </pre><p><strong class="example">Example 2:</strong></p>
 <pre><strong>Input:</strong> s = ["H","a","n","n","a","h"]
-<strong>Output:</strong> ["h","a","n","n","a","H"]
+<strong>Output:</strong> ["h","a","n", "n","a","H"]  
 </pre>
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
