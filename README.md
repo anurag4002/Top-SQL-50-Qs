@@ -110,6 +110,7 @@ Pull Requests are welcome if you’d like to add improvements.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/anurag4002/Top-SQL-50-Qs/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/anurag4002/Top-SQL-50-Qs/tree/master/0013-roman-to-integer) |
 ## Linked List
 |  |
 | ------- |
@@ -126,6 +127,7 @@ Pull Requests are welcome if you’d like to add improvements.
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/anurag4002/Top-SQL-50-Qs/tree/master/0008-string-to-integer-atoi) |
+| [0013-roman-to-integer](https://github.com/anurag4002/Top-SQL-50-Qs/tree/master/0013-roman-to-integer) |
 | [0344-reverse-string](https://github.com/anurag4002/Top-SQL-50-Qs/tree/master/0344-reverse-string) |
 ## Recursion
 |  |
@@ -135,4 +137,8 @@ Pull Requests are welcome if you’d like to add improvements.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/anurag4002/Top-SQL-50-Qs/tree/master/0011-container-with-most-water) |
+## Math
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/anurag4002/Top-SQL-50-Qs/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
