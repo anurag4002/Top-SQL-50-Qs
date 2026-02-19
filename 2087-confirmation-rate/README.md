@@ -26,7 +26,7 @@ Each row contains information about the signup time for the user with ID user_id
 (user_id, time_stamp) is the primary key (combination of columns with unique values) for this table.
 user_id is a foreign key (reference column) to the Signups table.
 action is an ENUM (category) of the type (&#39;confirmed&#39;, &#39;timeout&#39;)
-Each row of this table indicates that the user with ID user_id requested a confirmation message at time_stamp and that confirmation message was either confirmed (&#39;confirmed&#39;) or expired without confirming (&#39;timeout&#39;).
+Each row of this table indicates that  user with ID user_id requested a confirmation message at time_stamp and that confirmation message was either confirmed (&#39;confirmed&#39;) or expired without confirming (&#39;timeout&#39;).
 </pre>
 
 <p>&nbsp;</p>
