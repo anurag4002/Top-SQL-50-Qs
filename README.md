@@ -12,7 +12,7 @@ Perfect for 📚 learners, 💼 job seekers, and 👨‍💻 developers preparin
 ✅ Clean & tested SQL queries  
 ✅ Easy to understand explanations  
 
--------
+----------
 
 ## 📂 Repository Structure  
 📌 `Day_1.sql` → Question + Solution  
