@@ -7,6 +7,7 @@
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
 
+
 <pre>
 <strong>Input:</strong> nums = [2,7,11,15], target = 9
 <strong>Output:</strong> [0,1]
